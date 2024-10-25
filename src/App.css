@@ -1,0 +1,25 @@
+
+.App {
+  text-align: center;
+  padding: 20px;
+  color: blue;
+}
+
+.btn-primary {
+  background-color: #00adee; 
+  border-color: #00adee; 
+}
+
+.btn-primary:hover {
+  background-color: #0085a1; 
+  border-color: #0085a1; 
+}
+
+.card {
+  background-color: #2a2d32; 
+  color: #d6d6d6;
+}
+
+.card-header {
+  background-color: #171a21; 
+}

@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "nombre": "Counter Strike 2",
+      "precio": 10.99,
+      "descripcion": "Counter-Strike 2 es un videojuego de disparos táctico en primera persona multijugador",
+      "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_616x353.jpg?t=1719426374"
+    },
+    {
+      "id": 2,
+      "nombre": "Forza Horizon 5",
+      "precio": 9.99,
+      "descripcion": "Forza Horizon 5 es un videojuego de carreras multijugador en línea",
+      "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_616x353.jpg?t=1727372807"
+    },
+    {
+      "id": 3,
+      "nombre": "EA Sports FC 25",
+      "precio": 12.99,
+      "descripcion": "EA Sports FC 25 es un videojuego de fútbol",
+      "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/capsule_616x353.jpg?t=1727470248"
+    }
+  ]
